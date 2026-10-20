@@ -1,3 +1,7 @@
+#Install the required library
+#Open PowerShell or your VS Code terminal and run:
+#python -m pip install "qrcode[pil]
+
 import qrcode
 from pathlib import Path
 from datetime import datetime
